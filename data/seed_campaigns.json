@@ -1,0 +1,42 @@
+[
+  {
+    "campaign_id": "CAMP-001",
+    "campaign_name": "Quantum AI Elon Musk Investment",
+    "platform": "YouTube",
+    "domain": "quantum-ai-invest.com",
+    "risk_score": 0.97,
+    "scam_type": "celebrity_impersonation"
+  },
+  {
+    "campaign_id": "CAMP-002",
+    "campaign_name": "Martin Lewis Crypto Miracle",
+    "platform": "Facebook",
+    "domain": "martinlewis-crypto.net",
+    "risk_score": 0.95,
+    "scam_type": "influencer_impersonation"
+  },
+  {
+    "campaign_id": "CAMP-003",
+    "campaign_name": "BBC News Bitcoin Giveaway",
+    "platform": "Twitter",
+    "domain": "bbc-cryptonews.org",
+    "risk_score": 0.93,
+    "scam_type": "media_brand_spoofing"
+  },
+  {
+    "campaign_id": "CAMP-004",
+    "campaign_name": "FCA Authorised Recovery Fund",
+    "platform": "LinkedIn",
+    "domain": "fca-recovery-fund.co.uk",
+    "risk_score": 0.98,
+    "scam_type": "regulatory_impersonation"
+  },
+  {
+    "campaign_id": "CAMP-005",
+    "campaign_name": "Turkish Finance Minister Deepfake Crypto",
+    "platform": "Instagram",
+    "domain": "turkiye-yatirim-kripto.com",
+    "risk_score": 0.96,
+    "scam_type": "government_deepfake"
+  }
+]
